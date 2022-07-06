@@ -7,11 +7,7 @@
     <img src="https://img.shields.io/badge/telegram-%40qrioto-blue" alt="telegram"/>
   </a>
   </div>
-  <div>
-  <a href="mailto:borisgadaborshev@gmail.com">
-    <https://img.shields.io/badge/-gmail-red" alt="email"/>
-  </a>
-</div>
+
 <img src="https://komarev.com/ghpvc/?username=borisgadaborshev&style=flat-square&color=blue" alt=""/>
 
     • Fullstack-разработчик с опытом работы более 3 лет в Сбере, IT и высшим профильным образованием.
