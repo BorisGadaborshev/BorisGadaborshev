@@ -10,6 +10,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=borisgadaborshev&style=flat-square&color=blue" alt=""/>
 
+### :man_technologist: О себе:
+
     • Fullstack-разработчик с опытом работы более 3 лет в Сбере, IT и высшим профильным образованием.
     • Решил стать разработчиком после частого взаимодействиями с разработчиками, самостоятельно  обучался, 
     начал делать проекты, планирую реализовать свои способности в крупных бизнес-проектах.
@@ -18,7 +20,7 @@
     • Обладаю аналитическим складом ума, мотивирован, желаю развиваться и совершенствоваться.
     • Прекрасно вливаюсь в любой коллектив, имею опыт управления командой.
     
-   
+   ### :hammer_and_wrench: Стек-технологий:
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
@@ -35,5 +37,7 @@
      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" wigth="40" height="40"/>&nbsp;
    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original-wordmark.svg" title="MongoDB" wigth="40" height="40"/>&nbsp;
  </div>
+ 
+ ### :fire: Статистика:
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borisgadaborshev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
